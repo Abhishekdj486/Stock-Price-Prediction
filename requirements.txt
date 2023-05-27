@@ -21,3 +21,4 @@ yfinance==0.2.12
 tensorflow==2.12.0rc0
 tensorflow-estimator==2.12.0rc0
 tensorflow-io-gcs-filesystem==0.31.0
+pyinstaller==5.8.0
