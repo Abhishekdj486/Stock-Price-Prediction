@@ -104,8 +104,8 @@ with st.container():
                 
             finally:
                 #Create a link to return to portfolio website
-                st.subheader("Back to portfolio website")
-                st.write("Click the link to return to portfolio website.")
+                st.subheader("Developer's Portfolio")
+                st.write("Click the link to visit the portfolio website.")
 
                 link = '[Portfolio](https://abhishekdj486.github.io/Portfolio/)'
                 st.markdown(link, unsafe_allow_html=True)
